@@ -1,0 +1,533 @@
+﻿player_id,name,position,age,team_id,nationality,Goals,Assists
+1,Mason Mount,"MF,FW",21,Chelsea,ENG,6,5
+2,Edouard Mendy,GK,28,Chelsea,SEN,0,0
+3,Timo Werner,FW,24,Chelsea,GER,6,8
+4,Ben Chilwell,DF,23,Chelsea,ENG,3,5
+5,Reece James,DF,20,Chelsea,ENG,1,2
+6,Cesar Azpilicueta,DF,30,Chelsea,ESP,1,2
+7,N'Golo Kante,MF,29,Chelsea,FRA,0,2
+8,Jorginho,MF,28,Chelsea,ITA,7,1
+9,Thiago Silva,DF,35,Chelsea,BRA,2,0
+10,Kurt Zouma,DF,25,Chelsea,FRA,5,0
+11,Mateo Kovafcifa,MF,26,Chelsea,CRO,0,1
+12,Antonio Rudiger,DF,27,Chelsea,GER,1,0
+13,Christian Pulisic,"FW,MF",21,Chelsea,USA,4,2
+14,Kai Havertz,"MF,FW",21,Chelsea,GER,4,3
+15,Andreas Christensen,DF,24,Chelsea,DEN,0,0
+16,Hakim Ziyech,"FW,MF",27,Chelsea,MAR,2,3
+17,Tammy Abraham,FW,22,Chelsea,ENG,6,1
+18,Marcos Alonso,DF,29,Chelsea,ESP,2,0
+19,Callum Hudson-Odoi,"FW,DF",19,Chelsea,ENG,2,3
+20,Olivier Giroud,FW,33,Chelsea,FRA,4,0
+21,Kepa Arrizabalaga,GK,25,Chelsea,ESP,0,0
+22,Billy Gilmour,MF,19,Chelsea,SCO,0,0
+23,Willy Caballero,GK,38,Chelsea,ARG,0,0
+24,Ruben Loftus-Cheek,FW,24,Chelsea,ENG,0,0
+25,Emerson Palmieri,DF,25,Chelsea,ITA,0,0
+26,Fikayo Tomori,DF,22,Chelsea,ENG,0,0
+27,Ross Barkley,MF,26,Chelsea,ENG,0,0
+28,Ederson,GK,26,Manchester City,BRA,0,1
+29,Ruben Dias,DF,23,Manchester City,POR,1,0
+30,Rodri,MF,24,Manchester City,ESP,2,2
+31,Raheem Sterling,FW,25,Manchester City,ENG,10,7
+32,Joao Cancelo,DF,26,Manchester City,POR,2,3
+33,Bernardo Silva,"MF,FW",25,Manchester City,POR,2,6
+34,Ilkay Gundogan,MF,29,Manchester City,GER,13,2
+35,Kevin De Bruyne,MF,29,Manchester City,BEL,6,12
+36,Riyad Mahrez,FW,29,Manchester City,ALG,9,6
+37,Gabriel Jesus,FW,23,Manchester City,BRA,9,4
+38,Kyle Walker,DF,30,Manchester City,ENG,1,1
+39,John Stones,DF,26,Manchester City,ENG,4,0
+40,Phil Foden,"FW,MF",20,Manchester City,ENG,9,5
+41,Oleksandr Zinchenko,DF,23,Manchester City,UKR,0,0
+42,Ferran Torres,"FW,MF",20,Manchester City,ESP,7,2
+43,Aymeric Laporte,DF,26,Manchester City,FRA,0,0
+44,Fernandinho,MF,35,Manchester City,BRA,0,2
+45,Benjamin Mendy,DF,26,Manchester City,FRA,2,1
+46,Nathan Ake,DF,25,Manchester City,NED,1,0
+47,Sergio Aguero,"FW,MF",32,Manchester City,ARG,4,1
+48,Eric Garcia,DF,19,Manchester City,ESP,0,0
+49,Scott Carson,GK,34,Manchester City,ENG,0,0
+50,Zack Steffen,GK,25,Manchester City,USA,0,0
+51,Liam Delap,FW,17,Manchester City,ENG,0,0
+52,Bruno Fernandes,MF,25,Manchester United,POR,18,12
+53,Aaron Wan-Bissaka,DF,22,Manchester United,ENG,2,4
+54,Harry Maguire,DF,27,Manchester United,ENG,2,1
+55,Marcus Rashford,FW,22,Manchester United,ENG,11,9
+56,Luke Shaw,DF,25,Manchester United,ENG,1,5
+57,Victor Lindelof,DF,26,Manchester United,SWE,1,1
+58,Fred,MF,27,Manchester United,BRA,1,0
+59,David de Gea,GK,29,Manchester United,ESP,0,0
+60,Scott McTominay,MF,23,Manchester United,SCO,4,1
+61,Paul Pogba,"MF,FW",27,Manchester United,FRA,3,3
+62,Mason Greenwood,FW,18,Manchester United,ENG,7,2
+63,Anthony Martial,FW,24,Manchester United,FRA,4,3
+64,Edinson Cavani,FW,33,Manchester United,URU,10,3
+65,Dean Henderson,GK,23,Manchester United,ENG,0,0
+66,Nemanja Matifa,MF,31,Manchester United,SRB,0,0
+67,Daniel James,FW,22,Manchester United,WAL,3,1
+68,Eric Bailly,DF,26,Manchester United,CIV,0,0
+69,Alex Telles,DF,27,Manchester United,BRA,0,2
+70,Juan Mata,"FW,MF",32,Manchester United,ESP,1,2
+71,Donny van de Beek,"MF,FW",23,Manchester United,NED,1,1
+72,Axel Tuanzebe,DF,22,Manchester United,ENG,0,0
+73,Brandon Williams,DF,19,Manchester United,ENG,0,0
+74,Amad Diallo,FW,18,Manchester United,CIV,0,1
+75,Anthony Elanga,FW,18,Manchester United,SWE,1,0
+76,Timothy Fosu-Mensah,DF,22,Manchester United,NED,0,0
+77,Shola Shoretire,FW,16,Manchester United,ENG,0,0
+78,Odion Ighalo,FW,31,Manchester United,NGA,0,0
+79,Hannibal Mejbri,MF,17,Manchester United,FRA,0,0
+80,William Thomas Fish,DF,17,Manchester United,ENG,0,0
+81,Andrew Robertson,DF,26,Liverpool FC,SCO,1,7
+82,Mohamed Salah,FW,28,Liverpool FC,EGY,22,5
+83,Trent Alexander-Arnold,DF,21,Liverpool FC,ENG,2,7
+84,Georginio Wijnaldum,MF,29,Liverpool FC,NED,2,0
+85,Alisson,GK,27,Liverpool FC,BRA,1,0
+86,Roberto Firmino,FW,28,Liverpool FC,BRA,9,7
+87,Sadio Mane,FW,28,Liverpool FC,SEN,11,7
+88,Fabinho,"DF,MF",26,Liverpool FC,BRA,0,0
+89,Thiago Alcantara,MF,29,Liverpool FC,ESP,1,0
+90,Jordan Henderson,"MF,DF",30,Liverpool FC,ENG,1,1
+91,Nathaniel Phillips,DF,23,Liverpool FC,ENG,1,1
+92,Curtis Jones,MF,19,Liverpool FC,ENG,1,2
+93,Diogo Jota,FW,23,Liverpool FC,POR,9,0
+94,James Milner,"MF,DF",34,Liverpool FC,ENG,0,1
+95,Ozan Kabak,DF,20,Liverpool FC,TUR,0,0
+96,Joel Matip,DF,28,Liverpool FC,CMR,1,2
+97,Rhys Williams,DF,19,Liverpool FC,ENG,0,0
+98,Naby Keita,MF,25,Liverpool FC,GUI,0,0
+99,Joe Gomez,DF,23,Liverpool FC,ENG,0,0
+100,Xherdan Shaqiri,"MF,FW",28,Liverpool FC,SUI,0,2
+101,Virgil van Dijk,DF,29,Liverpool FC,NED,1,0
+102,Adrian,GK,33,Liverpool FC,ESP,0,0
+103,Neco Williams,DF,19,Liverpool FC,WAL,0,0
+104,Takumi Minamino,"MF,FW",25,Liverpool FC,JPN,1,0
+105,Alex Oxlade-Chamberlain,"FW,MF",26,Liverpool FC,ENG,1,1
+106,Divock Origi,FW,25,Liverpool FC,BEL,0,0
+107,Caoimhin Kelleher,GK,21,Liverpool FC,IRL,0,0
+108,Kostas Tsimikas,DF,24,Liverpool FC,GRE,0,0
+109,Kasper Schmeichel,GK,33,Leicester City,DEN,0,0
+110,Youri Tielemans,MF,23,Leicester City,BEL,6,4
+111,Jamie Vardy,FW,33,Leicester City,ENG,15,9
+112,Jonny Evans,DF,32,Leicester City,NIR,2,2
+113,Timothy Castagne,DF,24,Leicester City,BEL,2,3
+114,Wesley Fofana,DF,19,Leicester City,FRA,0,0
+115,Wilfred Ndidi,"MF,DF",23,Leicester City,NGA,1,4
+116,James Maddison,"MF,FW",23,Leicester City,ENG,8,5
+117,James Justin,DF,22,Leicester City,ENG,2,1
+118,Harvey Barnes,"FW,MF",22,Leicester City,ENG,9,4
+119,Caglar Soyuncu,DF,24,Leicester City,TUR,1,0
+120,Marc Albrighton,"DF,FW",30,Leicester City,ENG,1,5
+121,Kelechi Iheanacho,FW,23,Leicester City,NGA,12,2
+122,Nampalys Mendy,MF,28,Leicester City,SEN,0,1
+123,Ayoze Perez,"MF,FW",27,Leicester City,ESP,2,1
+124,Luke Thomas,DF,19,Leicester City,ENG,1,0
+125,Ricardo Pereira,DF,26,Leicester City,POR,0,1
+126,Dennis Praet,"MF,FW",26,Leicester City,BEL,1,1
+127,Daniel Amartey,DF,25,Leicester City,GHA,1,0
+128,Christian Fuchs,DF,34,Leicester City,AUT,0,0
+129,Hamza Choudhury,MF,22,Leicester City,ENG,0,0
+130,Cengiz Under,"MF,FW",23,Leicester City,TUR,0,2
+131,Sidnei Tavares,MF,18,Leicester City,POR,0,0
+132,Islam Slimani,FW,32,Leicester City,ALG,0,0
+133,Demarai Gray,FW,24,Leicester City,ENG,0,0
+134,Wes Morgan,DF,36,Leicester City,JAM,0,0
+135,Khanya Leshabela,MF,20,Leicester City,RSA,0,0
+136,Tomas Soucek,MF,25,West Ham United,CZE,10,1
+137,Aaron Cresswell,DF,30,West Ham United,ENG,0,8
+138,Lukasz Fabiaski,GK,35,West Ham United,POL,0,0
+139,Vladimir Coufal,DF,27,West Ham United,CZE,0,7
+140,Declan Rice,MF,21,West Ham United,ENG,2,1
+141,Pablo Fornals,"FW,MF",24,West Ham United,ESP,5,4
+142,Jarrod Bowen,"FW,MF",23,West Ham United,ENG,8,5
+143,Angelo Ogbonna,DF,32,West Ham United,ITA,3,0
+144,Michail Antonio,FW,30,West Ham United,ENG,10,5
+145,Craig Dawson,DF,30,West Ham United,ENG,3,0
+146,Jesse Lingard,"MF,FW",27,West Ham United,ENG,9,4
+147,Issa Diop,DF,23,West Ham United,FRA,2,0
+148,Said Benrahma,"FW,MF",24,West Ham United,ALG,1,6
+149,Fabian Balbuena,DF,28,West Ham United,PAR,1,0
+150,Arthur Masuaku,"DF,FW",26,West Ham United,COD,0,2
+151,Sebastien Haller,FW,26,West Ham United,CIV,3,0
+152,Mark Noble,MF,33,West Ham United,ENG,0,0
+153,Ryan Fredericks,"DF,FW",27,West Ham United,ENG,1,1
+154,Manuel Lanzini,"MF,FW",27,West Ham United,ARG,1,1
+155,Ben Johnson,DF,20,West Ham United,ENG,1,0
+156,Darren Randolph,GK,33,West Ham United,IRL,0,0
+157,Andriy Yarmolenko,"FW,MF",30,West Ham United,UKR,0,1
+158,Robert Snodgrass,"FW,DF",32,West Ham United,SCO,0,0
+159,Felipe Anderson,"FW,MF",27,West Ham United,BRA,0,0
+160,Pierre-Emile Hojbjerg,MF,24,Tottenham Hotspur,DEN,2,4
+161,Hugo Lloris,GK,33,Tottenham Hotspur,FRA,0,0
+162,Son Heung-min,FW,28,Tottenham Hotspur,KOR,17,10
+163,Harry Kane,FW,27,Tottenham Hotspur,ENG,23,14
+164,Eric Dier,DF,26,Tottenham Hotspur,ENG,0,0
+165,Tanguy Ndombele,MF,23,Tottenham Hotspur,FRA,3,2
+166,Sergio Reguilon,DF,23,Tottenham Hotspur,ESP,0,3
+167,Toby Alderweireld,DF,31,Tottenham Hotspur,BEL,1,0
+168,Serge Aurier,DF,27,Tottenham Hotspur,CIV,2,3
+169,Davinson Sanchez,DF,24,Tottenham Hotspur,COL,0,0
+170,Moussa Sissoko,MF,30,Tottenham Hotspur,FRA,0,0
+171,Lucas Moura,"FW,MF",27,Tottenham Hotspur,BRA,3,4
+172,Ben Davies,DF,27,Tottenham Hotspur,WAL,0,1
+173,Matt Doherty,DF,28,Tottenham Hotspur,IRL,0,2
+174,Steven Bergwijn,"FW,MF",22,Tottenham Hotspur,NED,1,3
+175,Giovani Lo Celso,MF,24,Tottenham Hotspur,ARG,1,1
+176,Gareth Bale,FW,31,Tottenham Hotspur,WAL,11,2
+177,Harry Winks,MF,24,Tottenham Hotspur,ENG,0,0
+178,Joe Rodon,DF,22,Tottenham Hotspur,WAL,0,0
+179,Dele Alli,MF,24,Tottenham Hotspur,ENG,0,1
+180,Japhet Tanganga,DF,21,Tottenham Hotspur,ENG,0,0
+181,Erik Lamela,"FW,MF",28,Tottenham Hotspur,ARG,1,0
+182,Carlos Vinicius,FW,25,Tottenham Hotspur,BRA,1,0
+183,Dane Scarlett,FW,16,Tottenham Hotspur,ENG,0,0
+184,Bernd Leno,GK,28,Arsenal,GER,0,0
+185,Bukayo Saka,"FW,DF",18,Arsenal,ENG,5,3
+186,Granit Xhaka,"MF,DF",27,Arsenal,SUI,1,2
+187,Rob Holding,DF,24,Arsenal,ENG,0,1
+188,Pierre-Emerick Aubameyang,FW,31,Arsenal,GAB,10,3
+189,Kieran Tierney,DF,23,Arsenal,SCO,1,3
+190,Hector Bellerin,DF,25,Arsenal,ESP,1,2
+191,Gabriel Dos Santos,DF,22,Arsenal,BRA,2,0
+192,Alexandre Lacazette,FW,29,Arsenal,FRA,13,2
+193,Thomas Partey,MF,27,Arsenal,GHA,0,2
+194,Emile Smith-Rowe,"MF,FW",20,Arsenal,ENG,2,4
+195,Dani Ceballos,MF,23,Arsenal,ESP,0,3
+196,Mohamed Elneny,MF,28,Arsenal,EGY,1,0
+197,David Luiz,DF,33,Arsenal,BRA,1,0
+198,Nicolas Pepe,FW,25,Arsenal,CIV,10,1
+199,Willian,"FW,MF",31,Arsenal,BRA,1,5
+200,Pablo Mari,DF,26,Arsenal,ESP,0,0
+201,Martin Odegaard,MF,21,Arsenal,NOR,1,2
+202,Calum Chambers,DF,25,Arsenal,ENG,0,2
+203,Cedric Soares,DF,28,Arsenal,POR,0,1
+204,Martinelli,FW,19,Arsenal,BRA,2,1
+205,Ainsley Maitland-Niles,DF,22,Arsenal,ENG,0,0
+206,Eddie Nketiah,FW,21,Arsenal,ENG,2,1
+207,Mathew Ryan,GK,28,Arsenal,AUS,0,0
+208,Joe Willock,MF,20,Arsenal,ENG,0,0
+209,Sead Kolasinac,DF,27,Arsenal,BIH,0,0
+210,Reiss Nelson,FW,20,Arsenal,ENG,0,0
+211,Shkodran Mustafi,DF,28,Arsenal,GER,0,0
+212,Runar Alex Runarsson,GK,25,Arsenal,ISL,0,0
+213,Stuart Dallas,"DF,MF",29,Leeds United,NIR,8,2
+214,Luke Ayling,DF,28,Leeds United,ENG,0,0
+215,Patrick Bamford,FW,26,Leeds United,ENG,17,7
+216,Illan Meslier,GK,20,Leeds United,FRA,0,0
+217,Jack Harrison,MF,23,Leeds United,ENG,8,8
+218,Ezgjan Alioski,DF,28,Leeds United,MKD,2,3
+219,Kalvin Phillips,MF,24,Leeds United,ENG,1,2
+220,Mateusz Klich,MF,30,Leeds United,POL,4,5
+221,Raphael Dias Belloli,MF,23,Leeds United,BRA,6,9
+222,Liam Cooper,DF,28,Leeds United,SCO,1,0
+223,Pascal Struijk,"DF,MF",20,Leeds United,NED,1,0
+224,Tyler Roberts,"MF,FW",21,Leeds United,WAL,1,2
+225,Rodrigo,"MF,FW",29,Leeds United,ESP,7,2
+226,Diego Llorente,DF,26,Leeds United,ESP,1,0
+227,Helder Costa,"MF,FW",26,Leeds United,POR,3,3
+228,Robin Koch,"DF,MF",24,Leeds United,GER,0,0
+229,Jamie Shackleton,"MF,DF",20,Leeds United,ENG,0,0
+230,Pablo Hernandez,MF,35,Leeds United,ESP,0,2
+231,Kiko Casilla,GK,33,Leeds United,ESP,0,0
+232,Gaetano Berardi,DF,31,Leeds United,SUI,0,0
+233,Ian Carlo Poveda,"MF,DF",20,Leeds United,ENG,0,0
+234,Niall Huggins,DF,19,Leeds United,WAL,0,0
+235,Leif Davis,DF,20,Leeds United,ENG,0,0
+236,Michael Keane,DF,27,Everton,ENG,3,1
+237,Richarlison,FW,23,Everton,BRA,7,3
+238,Dominic Calvert-Lewin,FW,23,Everton,ENG,16,0
+239,Jordan Pickford,GK,26,Everton,ENG,0,0
+240,Lucas Digne,DF,27,Everton,FRA,0,7
+241,Ben Godfrey,DF,22,Everton,ENG,0,2
+242,Abdoulaye Doucoure,MF,27,Everton,FRA,2,3
+243,Mason Holgate,DF,23,Everton,ENG,1,0
+244,Gylfi Sigurosson,MF,30,Everton,ISL,6,5
+245,Allan,MF,29,Everton,BRA,0,0
+246,Yerry Mina,DF,25,Everton,COL,2,0
+247,James Rodriguez,"FW,MF",29,Everton,COL,6,4
+248,Seamus Coleman,"DF,MF",31,Everton,IRL,0,3
+249,Andre Gomes,MF,27,Everton,POR,0,1
+250,Alex Iwobi,"FW,DF",24,Everton,NGA,1,2
+251,Tom Davies,MF,22,Everton,ENG,0,1
+252,Robin Olsen,GK,30,Everton,SWE,0,0
+253,Bernard,"MF,FW",27,Everton,BRA,1,0
+254,Fabian Delph,"MF,DF",30,Everton,ENG,0,0
+255,Anthony Gordon,"FW,MF",19,Everton,ENG,0,0
+256,Niels Nkounkou,"DF,FW",19,Everton,FRA,0,0
+257,Jonjoe Kenny,DF,23,Everton,ENG,0,0
+258,Joshua King,"MF,FW",28,Everton,NOR,0,0
+259,Cenk Tosun,FW,29,Everton,TUR,0,0
+260,Joao Virginia,GK,20,Everton,POR,0,0
+261,Moise Kean,FW,20,Everton,ITA,0,0
+262,Theo Walcott,FW,31,Everton,ENG,0,0
+263,Jean-Philippe Gbamin,MF,24,Everton,CIV,0,0
+264,Nathan Broadhead,MF,22,Everton,WAL,0,0
+265,Emiliano Martinez,GK,27,Aston Villa,ARG,0,0
+266,Matt Targett,DF,24,Aston Villa,ENG,0,2
+267,John McGinn,MF,25,Aston Villa,SCO,3,5
+268,Ollie Watkins,FW,24,Aston Villa,ENG,14,5
+269,Tyrone Mings,DF,27,Aston Villa,ENG,2,2
+270,Ezri Konsa,DF,22,Aston Villa,ENG,2,0
+271,Douglas Luiz,MF,22,Aston Villa,BRA,0,2
+272,Bertrand Traore,FW,24,Aston Villa,BFA,7,6
+273,Matty Cash,DF,22,Aston Villa,ENG,0,2
+274,Jack Grealish,"FW,MF",24,Aston Villa,ENG,6,10
+275,Ross Barkley,MF,26,Aston Villa,ENG,3,1
+276,Anwar El Ghazi,FW,25,Aston Villa,NED,10,0
+277,Mahmoud Trazeguet,FW,25,Aston Villa,EGY,2,1
+278,Marvelous Nakamba,MF,26,Aston Villa,ZIM,0,0
+279,Ahmed Elmohamady,DF,32,Aston Villa,EGY,0,0
+280,Kortney Hause,DF,25,Aston Villa,ENG,1,0
+281,Jacob Ramsey,MF,19,Aston Villa,ENG,0,0
+282,Morgan Sanson,MF,25,Aston Villa,FRA,0,0
+283,Conor Hourihane,MF,29,Aston Villa,IRL,1,1
+284,Keinan Davis,"FW,MF",22,Aston Villa,ENG,1,1
+285,Carney Chukwuemeka,"FW,MF",16,Aston Villa,ENG,0,0
+286,Wesley Moraes,"MF,FW",23,Aston Villa,BRA,0,0
+287,Neil Taylor,DF,31,Aston Villa,WAL,0,0
+288,Jaden Philogene Bidace,FW,18,Aston Villa,ENG,0,0
+289,Jonjo Shelvey,MF,28,Newcastle United,ENG,1,3
+290,Miguel Almiron,"MF,FW",26,Newcastle United,PAR,4,1
+291,Karl Darlow,GK,29,Newcastle United,ENG,0,0
+292,Federico Fernandez,DF,31,Newcastle United,ARG,0,0
+293,Callum Wilson,FW,28,Newcastle United,ENG,12,5
+294,Joelinton,"FW,MF",23,Newcastle United,BRA,4,2
+295,Isaac Hayden,"MF,DF",25,Newcastle United,ENG,0,0
+296,Ciaran Clark,DF,30,Newcastle United,IRL,1,0
+297,Jamal Lewis,DF,22,Newcastle United,NIR,0,1
+298,Jamaal Lascelles,DF,26,Newcastle United,ENG,2,0
+299,Allan Saint-Maximin,"FW,MF",23,Newcastle United,FRA,3,4
+300,Jacob Murphy,"DF,MF",25,Newcastle United,ENG,2,3
+301,Jeff Hendrick,MF,28,Newcastle United,IRL,2,1
+302,Sean Longstaff,MF,22,Newcastle United,ENG,0,1
+303,Matt Ritchie,"DF,MF",30,Newcastle United,SCO,0,2
+304,Emil Krafth,DF,25,Newcastle United,SWE,1,0
+305,Paul Dummett,DF,28,Newcastle United,WAL,1,0
+306,Fabian Schar,DF,28,Newcastle United,SUI,1,0
+307,Martin Dubravka,GK,31,Newcastle United,SVK,0,0
+308,Joe Willock,MF,20,Newcastle United,ENG,8,0
+309,Javier Manquillo,DF,26,Newcastle United,ESP,0,0
+310,Ryan Fraser,"FW,MF",26,Newcastle United,SCO,0,2
+311,DeAndre Yedlin,DF,27,Newcastle United,USA,0,0
+312,Dwight Gayle,"FW,MF",29,Newcastle United,ENG,1,1
+313,Andy Carroll,FW,31,Newcastle United,ENG,1,0
+314,Matthew Longstaff,MF,20,Newcastle United,ENG,0,0
+315,Elliot Anderson,MF,17,Newcastle United,SCO,0,0
+316,Rui Patricio,GK,32,Wolverhampton Wanderers,POR,0,0
+317,Conor Coady,DF,27,Wolverhampton Wanderers,ENG,1,0
+318,Nelson Semedo,DF,26,Wolverhampton Wanderers,POR,1,1
+319,Ruben Neves,MF,23,Wolverhampton Wanderers,POR,5,1
+320,Pedro Neto,"FW,MF",20,Wolverhampton Wanderers,POR,5,6
+321,Adama Traore,FW,24,Wolverhampton Wanderers,ESP,2,2
+322,Joao Moutinho,MF,33,Wolverhampton Wanderers,POR,1,1
+323,Leander Dendoncker,"MF,DF",25,Wolverhampton Wanderers,BEL,1,0
+324,Romain Saiss,DF,30,Wolverhampton Wanderers,MAR,3,0
+325,Daniel Podence,"MF,FW",24,Wolverhampton Wanderers,POR,3,2
+326,Willy Boly,DF,29,Wolverhampton Wanderers,CIV,1,1
+327,Rayan Ait-Nouri,DF,19,Wolverhampton Wanderers,FRA,1,1
+328,Max Kilman,DF,23,Wolverhampton Wanderers,ENG,0,1
+329,Willian Jose,FW,28,Wolverhampton Wanderers,BRA,1,0
+330,Fabio Silva,FW,18,Wolverhampton Wanderers,POR,4,3
+331,Raul Jimenez,FW,29,Wolverhampton Wanderers,MEX,4,0
+332,Fernando Marcal,DF,31,Wolverhampton Wanderers,BRA,0,0
+333,Jonny Castro,DF,26,Wolverhampton Wanderers,ESP,0,0
+334,Ki-Jana Hoever,DF,18,Wolverhampton Wanderers,NED,0,0
+335,Vitinha,MF,20,Wolverhampton Wanderers,POR,0,1
+336,Morgan Gibbs-White,"FW,MF",20,Wolverhampton Wanderers,ENG,1,0
+337,Owen Otasowie,"MF,FW",19,Wolverhampton Wanderers,USA,0,1
+338,Ruben Vinagre,DF,21,Wolverhampton Wanderers,POR,0,0
+339,John Ruddy,GK,33,Wolverhampton Wanderers,ENG,0,0
+340,Patrick Cutrone,"FW,MF",22,Wolverhampton Wanderers,ITA,0,0
+341,Oskar Buur,DF,22,Wolverhampton Wanderers,DEN,0,0
+342,Theo Corbeanu,FW,18,Wolverhampton Wanderers,CAN,0,0
+343,Vicente Guaita,GK,33,Crystal Palace,ESP,0,0
+344,Cheikhou Kouyate,DF,30,Crystal Palace,SEN,1,0
+345,Wilfried Zaha,FW,27,Crystal Palace,CIV,11,2
+346,Eberechi Eze,MF,22,Crystal Palace,ENG,4,6
+347,Luka Milivojevifa,MF,29,Crystal Palace,SRB,1,1
+348,Andros Townsend,"MF,FW",29,Crystal Palace,ENG,1,5
+349,Joel Ward,DF,30,Crystal Palace,ENG,0,1
+350,Jordan Ayew,"FW,MF",28,Crystal Palace,GHA,1,3
+351,Christian Benteke,FW,29,Crystal Palace,BEL,10,1
+352,Gary Cahill,DF,34,Crystal Palace,ENG,1,1
+353,Patrick van Aanholt,DF,29,Crystal Palace,NED,0,1
+354,Jairo Riedewald,MF,23,Crystal Palace,NED,2,0
+355,Tyrick Mitchell,DF,20,Crystal Palace,ENG,1,1
+356,James McArthur,MF,32,Crystal Palace,SCO,0,2
+357,Jeffrey Schlupp,MF,27,Crystal Palace,GHA,2,3
+358,Scott Dann,DF,33,Crystal Palace,ENG,1,0
+359,Nathaniel Clyne,DF,29,Crystal Palace,ENG,0,1
+360,James McCarthy,MF,29,Crystal Palace,IRL,0,0
+361,Michy Batshuayi,FW,26,Crystal Palace,BEL,2,1
+362,James Tomkins,DF,31,Crystal Palace,ENG,0,0
+363,Mamadou Sakho,DF,30,Crystal Palace,FRA,0,0
+364,Jean-Philippe Mateta,FW,23,Crystal Palace,FRA,1,0
+365,Jack Butland,GK,27,Crystal Palace,ENG,0,0
+366,Martin Kelly,DF,30,Crystal Palace,ENG,0,0
+367,James Ward-Prowse,MF,25,Southampton,ENG,8,7
+368,Jan Bednarek,DF,24,Southampton,POL,1,1
+369,Stuart Armstrong,MF,28,Southampton,SCO,4,5
+370,Alex McCarthy,GK,30,Southampton,ENG,0,0
+371,Che Adams,FW,24,Southampton,SCO,9,5
+372,Kyle Walker-Peters,DF,23,Southampton,ENG,0,2
+373,Ryan Bertrand,DF,30,Southampton,ENG,0,1
+374,Jannik Vestergaard,DF,27,Southampton,DEN,3,0
+375,Danny Ings,FW,28,Southampton,ENG,12,4
+376,Oriol Romeu,MF,28,Southampton,ESP,1,1
+377,Theo Walcott,"MF,FW",31,Southampton,ENG,3,3
+378,Nathan Redmond,"MF,FW",26,Southampton,ENG,2,3
+379,Jack Stephens,DF,26,Southampton,ENG,0,0
+380,Moussa Djenepo,MF,22,Southampton,MLI,1,0
+381,Ibrahima Diallo,MF,21,Southampton,FRA,0,0
+382,Takumi Minamino,"MF,FW",25,Southampton,JPN,2,0
+383,Mohammed Salisu,DF,21,Southampton,GHA,0,0
+384,Fraser Forster,GK,32,Southampton,ENG,0,0
+385,Nathan Tella,"FW,MF",21,Southampton,ENG,1,1
+386,William Smallbone,MF,20,Southampton,IRL,0,0
+387,Shane Long,"FW,MF",33,Southampton,IRL,0,0
+388,Yan Valery,"DF,MF",21,Southampton,FRA,0,0
+389,Kayne Ramsey,DF,19,Southampton,ENG,0,0
+390,Jake Vokins,DF,20,Southampton,ENG,0,0
+391,Alexandre Jankewitz,MF,18,Southampton,SUI,0,0
+392,Dan Nlundulu,FW,21,Southampton,ENG,0,0
+393,Michael Obafemi,FW,20,Southampton,IRL,0,0
+394,Caleb Watts,"MF,FW",18,Southampton,AUS,0,0
+395,Allan Tchaptchet,DF,18,Southampton,FRA,0,0
+396,Ben White,"DF,MF",22,Brighton,ENG,0,0
+397,Yves Bissouma,MF,23,Brighton,MLI,1,0
+398,Lewis Dunk,DF,28,Brighton,ENG,5,0
+399,Leandro Trossard,"FW,MF",25,Brighton,BEL,5,5
+400,Adam Webster,DF,25,Brighton,ENG,1,0
+401,Neal Maupay,"FW,MF",23,Brighton,FRA,8,2
+402,Pascal Grob,"MF,DF",29,Brighton,GER,3,8
+403,Robert Sanchez,GK,22,Brighton,ESP,0,0
+404,Joel Veltman,DF,28,Brighton,NED,1,1
+405,Dan Burn,DF,28,Brighton,ENG,1,0
+406,Solly March,DF,26,Brighton,ENG,2,1
+407,Danny Welbeck,FW,29,Brighton,ENG,6,1
+408,Adam Lallana,"MF,FW",32,Brighton,ENG,1,1
+409,Alexis Mac Allister,"MF,FW",21,Brighton,ARG,1,1
+410,Mathew Ryan,GK,28,Brighton,AUS,0,0
+411,Tariq Lamptey,DF,19,Brighton,ENG,1,1
+412,Steven Alzate,"MF,DF",21,Brighton,COL,1,0
+413,Aaron Connolly,FW,20,Brighton,IRL,2,1
+414,Jakub Moder,"DF,MF",21,Brighton,POL,0,0
+415,Alireza Jahanbakhsh,"FW,MF",26,Brighton,IRN,0,1
+416,Davy Propper,MF,28,Brighton,NED,0,0
+417,Bernardo,"DF,MF",25,Brighton,BRA,0,0
+418,Percy Tau,"FW,MF",26,Brighton,RSA,0,1
+419,Andi Zeqiri,"FW,DF",21,Brighton,SUI,0,0
+420,Jose Izquierdo,"DF,MF",28,Brighton,COL,0,0
+421,Reda Khadra,FW,19,Brighton,GER,0,0
+422,Jayson Molumby,MF,20,Brighton,IRL,0,0
+423,Ashley Westwood,MF,30,Burnley,ENG,3,3
+424,James Tarkowski,DF,27,Burnley,ENG,1,0
+425,Dwight McNeil,MF,20,Burnley,ENG,2,5
+426,Matthew Lowton,DF,31,Burnley,ENG,1,1
+427,Nick Pope,GK,28,Burnley,ENG,0,0
+428,Josh Brownhill,MF,24,Burnley,ENG,0,1
+429,Chris Wood,FW,28,Burnley,NZL,12,3
+430,Ben Mee,DF,30,Burnley,ENG,2,0
+431,Charlie Taylor,DF,26,Burnley,ENG,0,1
+432,Johann Berg J Gudmundsson,MF,29,Burnley,ISL,2,0
+433,Matej Vydra,FW,28,Burnley,CZE,3,2
+434,Jack Cork,MF,31,Burnley,ENG,0,0
+435,Ashley Barnes,FW,30,Burnley,ENG,3,0
+436,Erik Pieters,"DF,MF",31,Burnley,NED,0,1
+437,Jay Rodriguez,"FW,MF",31,Burnley,ENG,1,2
+438,Robbie Brady,MF,28,Burnley,IRL,1,1
+439,Kevin Long,DF,29,Burnley,IRL,0,0
+440,Bailey Peacock-Farrell,GK,23,Burnley,NIR,0,0
+441,Phil Bardsley,DF,35,Burnley,SCO,0,0
+442,Jimmy Dunne,DF,22,Burnley,IRL,1,0
+443,Dale Stephens,MF,31,Burnley,ENG,0,0
+444,Josh Benson,MF,20,Burnley,ENG,0,0
+445,Will Norris,GK,26,Burnley,ENG,0,0
+446,Joel Mumbongo,FW,21,Burnley,SWE,0,0
+447,Lewis Richardson,"FW,MF",17,Burnley,ENG,0,0
+448,Alphonse Areola,GK,27,Fulham,FRA,0,0
+449,Tosin Adarabioyo,DF,22,Fulham,ENG,0,0
+450,Ademola Lookman,"FW,MF",22,Fulham,ENG,4,4
+451,Ola Aina,DF,23,Fulham,NGA,2,1
+452,Joachim Andersen,DF,24,Fulham,DEN,1,1
+453,Andre-Frank Zambo Anguissa,MF,24,Fulham,CMR,0,3
+454,Bobby Reid,"MF,DF",27,Fulham,JAM,5,2
+455,Ivan Cavaleiro,"FW,MF",26,Fulham,POR,3,0
+456,Harrison Reed,MF,25,Fulham,ENG,0,2
+457,Antonee Robinson,DF,22,Fulham,USA,0,0
+458,Ruben Loftus-Cheek,"MF,FW",24,Fulham,ENG,1,0
+459,Mario Lemina,MF,26,Fulham,GAB,1,0
+460,Kenny Tete,DF,24,Fulham,NED,0,1
+461,Aleksandar Mitrovifa,FW,25,Fulham,SRB,3,3
+462,Josh Maja,"FW,MF",21,Fulham,NGA,3,0
+463,Tom Cairney,MF,29,Fulham,SCO,1,1
+464,Joe Bryan,"DF,FW",26,Fulham,ENG,1,0
+465,Tim Ream,DF,32,Fulham,USA,0,0
+466,Josh Onomah,MF,23,Fulham,ENG,0,0
+467,Denis Odoi,DF,32,Fulham,BEL,0,0
+468,Michael Hector,DF,28,Fulham,JAM,0,0
+469,Fabio Carvalho,"MF,FW",17,Fulham,ENG,1,0
+470,Aboubakar Kamara,"FW,DF",25,Fulham,MTN,0,0
+471,Marek Rodak,GK,23,Fulham,SVK,0,0
+472,Maxime Le Marchand,DF,30,Fulham,FRA,0,0
+473,Neeskens Kebano,"FW,MF",28,Fulham,COD,0,0
+474,Terence Kongolo,DF,26,Fulham,NED,0,0
+475,Tyrese Francois,DF,20,Fulham,AUS,0,0
+476,Sam Johnstone,GK,27,West Bromwich Albion,ENG,0,1
+477,Darnell Furlong,DF,24,West Bromwich Albion,ENG,1,3
+478,Semi Ajayi,DF,26,West Bromwich Albion,NGA,2,0
+479,Matheus Pereira,"MF,FW",24,West Bromwich Albion,BRA,11,6
+480,Kyle Bartley,DF,29,West Bromwich Albion,ENG,3,1
+481,Conor Gallagher,MF,20,West Bromwich Albion,ENG,2,2
+482,Conor Townsend,DF,27,West Bromwich Albion,ENG,0,2
+483,Dara O'Shea,DF,21,West Bromwich Albion,IRL,0,0
+484,Matt Phillips,MF,29,West Bromwich Albion,SCO,2,1
+485,Callum Robinson,"FW,MF",25,West Bromwich Albion,IRL,5,0
+486,Romaine Sawyers,MF,28,West Bromwich Albion,SKN,0,0
+487,Okay Yokuslu,MF,26,West Bromwich Albion,TUR,0,1
+488,Jake Livermore,MF,30,West Bromwich Albion,ENG,0,0
+489,Grady Diangana,"MF,FW",22,West Bromwich Albion,ENG,1,0
+490,Ainsley Maitland-Niles,MF,22,West Bromwich Albion,ENG,0,0
+491,Mbaye Diagne,FW,28,West Bromwich Albion,SEN,3,2
+492,Karlan Grant,"FW,MF",22,West Bromwich Albion,ENG,1,0
+493,Kieran Gibbs,DF,30,West Bromwich Albion,ENG,0,0
+494,Branislav Ivanovifa,DF,36,West Bromwich Albion,SRB,0,0
+495,Robert Snodgrass,"MF,FW",32,West Bromwich Albion,SCO,0,0
+496,Filip Krovinovifa,MF,24,West Bromwich Albion,CRO,0,0
+497,Lee Peltier,DF,33,West Bromwich Albion,ENG,0,0
+498,Hal Robson-Kanu,FW,31,West Bromwich Albion,WAL,2,0
+499,Kamil Grosicki,"FW,MF",32,West Bromwich Albion,POL,0,1
+500,Kyle Edwards,"MF,FW",22,West Bromwich Albion,ENG,0,0
+501,David Button,GK,31,West Bromwich Albion,ENG,0,0
+502,Ahmed Hegazi,DF,29,West Bromwich Albion,EGY,0,0
+503,Charlie Austin,FW,31,West Bromwich Albion,ENG,0,0
+504,Sam Field,MF,22,West Bromwich Albion,ENG,0,0
+505,Rekeem Harper,MF,20,West Bromwich Albion,ENG,0,0
+506,Aaron Ramsdale,GK,22,Sheffield United,ENG,0,0
+507,George Baldock,DF,27,Sheffield United,ENG,0,2
+508,Chris Basham,"DF,MF",32,Sheffield United,ENG,0,1
+509,Enda Stevens,DF,30,Sheffield United,IRL,0,1
+510,John Egan,DF,27,Sheffield United,IRL,0,1
+511,John Fleck,MF,28,Sheffield United,SCO,0,2
+512,David McGoldrick,"FW,MF",32,Sheffield United,IRL,8,1
+513,Oliver Norwood,MF,29,Sheffield United,NIR,0,0
+514,Ethan Ampadu,"DF,MF",19,Sheffield United,WAL,0,0
+515,John Lundstram,MF,26,Sheffield United,ENG,0,2
+516,Ben Osborn,"MF,DF",25,Sheffield United,ENG,1,0
+517,Oliver Burke,FW,23,Sheffield United,SCO,1,1
+518,Sander Berge,MF,22,Sheffield United,NOR,1,1
+519,Oliver McBurnie,FW,24,Sheffield United,SCO,1,0
+520,Rhian Brewster,FW,20,Sheffield United,ENG,0,0
+521,Jayden Bogle,DF,20,Sheffield United,ENG,2,0
+522,Kean Bryan,DF,23,Sheffield United,ENG,1,0
+523,Jack Robinson,DF,26,Sheffield United,ENG,0,1
+524,Billy Sharp,FW,34,Sheffield United,ENG,3,0
+525,Max Lowe,DF,23,Sheffield United,ENG,0,0
+526,Phil Jagielka,DF,37,Sheffield United,ENG,0,0
+527,Daniel Jebbison,FW,17,Sheffield United,ENG,1,0
+528,Lys Mousset,"FW,MF",24,Sheffield United,FRA,0,0
+529,Jack O'Connell,DF,26,Sheffield United,ENG,0,0
+530,Iliman Ndiaye,MF,21,Sheffield United,FRA,0,0
+531,Antwoine Hackford,"DF,FW",16,Sheffield United,ENG,0,0
+532,Femi Seriki,DF,17,Sheffield United,ENG,0,0

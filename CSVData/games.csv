@@ -1,0 +1,381 @@
+﻿game_id,hometeam,awayteam,referee
+1,Fulham,Arsenal,C Kavanagh
+2,Crystal Palace,Southampton,J Moss
+3,Liverpool FC,Leeds United,M Oliver
+4,West Ham United,Newcastle United,S Attwell
+5,West Bromwich Albion,Leicester City,A Taylor
+6,Tottenham Hotspur,Everton,M Atkinson
+7,Brighton,Chelsea,C Pawson
+8,Sheffield United,Wolverhampton Wanderers,M Dean
+9,Everton,West Bromwich Albion,M Dean
+10,Leeds United,Fulham,A Taylor
+11,Manchester United,Crystal Palace,M Atkinson
+12,Arsenal,West Ham United,M Oliver
+13,Southampton,Tottenham Hotspur,D Coote
+14,Newcastle United,Brighton,K Friend
+15,Chelsea,Liverpool FC,P Tierney
+16,Leicester City,Burnley,L Mason
+17,Aston Villa,Sheffield United,G Scott
+18,Wolverhampton Wanderers,Manchester City,A Marriner
+19,Brighton,Manchester United,C Kavanagh
+20,Crystal Palace,Everton,K Friend
+21,West Bromwich Albion,Chelsea,J Moss
+22,Burnley,Southampton,A Marriner
+23,Sheffield United,Leeds United,P Tierney
+24,Tottenham Hotspur,Newcastle United,P Bankes
+25,Manchester City,Leicester City,M Oliver
+26,West Ham United,Wolverhampton Wanderers,M Atkinson
+27,Fulham,Aston Villa,S Attwell
+28,Liverpool FC,Arsenal,C Pawson
+29,Chelsea,Crystal Palace,M Oliver
+30,Everton,Brighton,S Hooper
+31,Leeds United,Manchester City,M Dean
+32,Newcastle United,Burnley,D Coote
+33,Leicester City,West Ham United,A Madley
+34,Southampton,West Bromwich Albion,C Kavanagh
+35,Arsenal,Sheffield United,L Mason
+36,Wolverhampton Wanderers,Fulham,D England
+37,Manchester United,Tottenham Hotspur,A Taylor
+38,Aston Villa,Liverpool FC,M Atkinson
+39,Everton,Liverpool FC,M Oliver
+40,Chelsea,Southampton,P Bankes
+41,Manchester City,Arsenal,C Kavanagh
+42,Newcastle United,Manchester United,C Pawson
+43,Sheffield United,Fulham,A Marriner
+44,Crystal Palace,Brighton,S Attwell
+45,Tottenham Hotspur,West Ham United,P Tierney
+46,Leicester City,Aston Villa,J Moss
+47,West Bromwich Albion,Burnley,A Taylor
+48,Leeds United,Wolverhampton Wanderers,D Coote
+49,Aston Villa,Leeds United,P Tierney
+50,West Ham United,Manchester City,A Taylor
+51,Fulham,Crystal Palace,G Scott
+52,Manchester United,Chelsea,M Atkinson
+53,Liverpool FC,Sheffield United,M Dean
+54,Southampton,Everton,K Friend
+55,Wolverhampton Wanderers,Newcastle United,L Mason
+56,Arsenal,Leicester City,C Pawson
+57,Brighton,West Bromwich Albion,J Moss
+58,Burnley,Tottenham Hotspur,M Oliver
+59,Wolverhampton Wanderers,Crystal Palace,M Atkinson
+60,Sheffield United,Manchester City,M Oliver
+61,Burnley,Chelsea,D Coote
+62,Liverpool FC,West Ham United,K Friend
+63,Aston Villa,Southampton,D England
+64,Newcastle United,Everton,S Attwell
+65,Manchester United,Arsenal,M Dean
+66,Tottenham Hotspur,Brighton,G Scott
+67,Fulham,West Bromwich Albion,S Hooper
+68,Leeds United,Leicester City,A Marriner
+69,Brighton,Burnley,M Dean
+70,Southampton,Newcastle United,P Bankes
+71,Everton,Manchester United,P Tierney
+72,Crystal Palace,Leeds United,C Kavanagh
+73,Chelsea,Sheffield United,J Moss
+74,West Ham United,Fulham,R Jones
+75,West Bromwich Albion,Tottenham Hotspur,A Madley
+76,Leicester City,Wolverhampton Wanderers,A Taylor
+77,Manchester City,Liverpool FC,C Pawson
+78,Arsenal,Aston Villa,M Atkinson
+79,Newcastle United,Chelsea,C Pawson
+80,Aston Villa,Brighton,M Oliver
+81,Tottenham Hotspur,Manchester City,M Dean
+82,Manchester United,West Bromwich Albion,D Coote
+83,Fulham,Everton,A Madley
+84,Sheffield United,West Ham United,M Atkinson
+85,Leeds United,Arsenal,A Taylor
+86,Liverpool FC,Leicester City,C Kavanagh
+87,Burnley,Crystal Palace,K Friend
+88,Wolverhampton Wanderers,Southampton,A Marriner
+89,Crystal Palace,Newcastle United,G Scott
+90,Brighton,Liverpool FC,S Attwell
+91,Manchester City,Burnley,L Mason
+92,Everton,Leeds United,C Kavanagh
+93,West Bromwich Albion,Sheffield United,M Dean
+94,Southampton,Manchester United,J Moss
+95,Chelsea,Tottenham Hotspur,P Tierney
+96,Arsenal,Wolverhampton Wanderers,M Oliver
+97,Leicester City,Fulham,S Hooper
+98,West Ham United,Aston Villa,P Bankes
+99,Burnley,Everton,A Taylor
+100,Manchester City,Fulham,J Moss
+101,West Ham United,Manchester United,A Marriner
+102,Chelsea,Leeds United,K Friend
+103,West Bromwich Albion,Crystal Palace,P Tierney
+104,Sheffield United,Leicester City,S Attwell
+105,Tottenham Hotspur,Arsenal,M Atkinson
+106,Liverpool FC,Wolverhampton Wanderers,C Pawson
+107,Brighton,Southampton,D Coote
+108,Leeds United,West Ham United,M Oliver
+109,Wolverhampton Wanderers,Aston Villa,M Dean
+110,Newcastle United,West Bromwich Albion,D England
+111,Manchester United,Manchester City,C Kavanagh
+112,Everton,Chelsea,J Moss
+113,Southampton,Sheffield United,A Madley
+114,Crystal Palace,Tottenham Hotspur,K Friend
+115,Fulham,Liverpool FC,A Marriner
+116,Arsenal,Burnley,G Scott
+117,Leicester City,Brighton,M Atkinson
+118,Wolverhampton Wanderers,Chelsea,S Attwell
+119,Manchester City,West Bromwich Albion,P Bankes
+120,Arsenal,Southampton,P Tierney
+121,Leeds United,Newcastle United,S Hooper
+122,Leicester City,Everton,L Mason
+123,Fulham,Brighton,R Jones
+124,Liverpool FC,Tottenham Hotspur,A Taylor
+125,West Ham United,Crystal Palace,D Coote
+126,Aston Villa,Burnley,C Pawson
+127,Sheffield United,Manchester United,M Oliver
+128,Crystal Palace,Liverpool FC,J Moss
+129,Southampton,Manchester City,M Dean
+130,Everton,Arsenal,A Marriner
+131,Newcastle United,Fulham,G Scott
+132,Brighton,Sheffield United,P Bankes
+133,Tottenham Hotspur,Leicester City,C Pawson
+134,Manchester United,Leeds United,A Taylor
+135,West Bromwich Albion,Aston Villa,M Atkinson
+136,Burnley,Wolverhampton Wanderers,L Mason
+137,Chelsea,West Ham United,C Kavanagh
+138,Leicester City,Manchester United,M Dean
+139,Aston Villa,Crystal Palace,A Taylor
+140,Fulham,Southampton,D England
+141,Arsenal,Chelsea,M Oliver
+142,Manchester City,Newcastle United,A Marriner
+143,Sheffield United,Everton,D Coote
+144,Leeds United,Burnley,R Jones
+145,West Ham United,Brighton,S Hooper
+146,Liverpool FC,West Bromwich Albion,K Friend
+147,Wolverhampton Wanderers,Tottenham Hotspur,P Tierney
+148,Crystal Palace,Leicester City,G Scott
+149,Chelsea,Aston Villa,S Attwell
+150,Brighton,Arsenal,M Atkinson
+151,Burnley,Sheffield United,C Kavanagh
+152,Southampton,West Ham United,A Madley
+153,West Bromwich Albion,Leeds United,L Mason
+154,Manchester United,Wolverhampton Wanderers,J Moss
+155,Newcastle United,Liverpool FC,P Tierney
+156,Everton,West Ham United,K Friend
+157,Manchester United,Aston Villa,M Oliver
+158,Tottenham Hotspur,Leeds United,D Coote
+159,Crystal Palace,Sheffield United,S Attwell
+160,Brighton,Wolverhampton Wanderers,A Madley
+161,West Bromwich Albion,Arsenal,M Atkinson
+162,Newcastle United,Leicester City,R Jones
+163,Chelsea,Manchester City,A Taylor
+164,Southampton,Liverpool FC,A Marriner
+165,Sheffield United,Newcastle United,A Madley
+166,Burnley,Manchester United,K Friend
+167,Wolverhampton Wanderers,Everton,M Atkinson
+168,Manchester City,Brighton,D England
+169,Tottenham Hotspur,Fulham,P Tierney
+170,Arsenal,Crystal Palace,A Marriner
+171,Wolverhampton Wanderers,West Bromwich Albion,M Oliver
+172,Leeds United,Brighton,K Friend
+173,West Ham United,Burnley,C Kavanagh
+174,Fulham,Chelsea,P Bankes
+175,Leicester City,Southampton,S Attwell
+176,Sheffield United,Tottenham Hotspur,A Marriner
+177,Liverpool FC,Manchester United,P Tierney
+178,Manchester City,Crystal Palace,L Mason
+179,Arsenal,Newcastle United,D Coote
+180,West Ham United,West Bromwich Albion,G Scott
+181,Leicester City,Chelsea,C Pawson
+182,Manchester City,Aston Villa,J Moss
+183,Fulham,Manchester United,M Atkinson
+184,Liverpool FC,Burnley,M Dean
+185,Aston Villa,Newcastle United,S Hooper
+186,Crystal Palace,West Ham United,S Attwell
+187,Newcastle United,Leeds United,A Taylor
+188,Southampton,Arsenal,K Friend
+189,West Bromwich Albion,Manchester City,C Kavanagh
+190,Burnley,Aston Villa,P Tierney
+191,Chelsea,Wolverhampton Wanderers,A Madley
+192,Brighton,Fulham,C Pawson
+193,Everton,Leicester City,M Dean
+194,Manchester United,Sheffield United,P Bankes
+195,Tottenham Hotspur,Liverpool FC,M Atkinson
+196,Everton,Newcastle United,S Attwell
+197,Crystal Palace,Wolverhampton Wanderers,S Hooper
+198,Manchester City,Sheffield United,D Coote
+199,West Bromwich Albion,Fulham,A Taylor
+200,Arsenal,Manchester United,M Oliver
+201,Southampton,Aston Villa,L Mason
+202,Chelsea,Burnley,G Scott
+203,Leicester City,Leeds United,C Kavanagh
+204,West Ham United,Liverpool FC,J Moss
+205,Brighton,Tottenham Hotspur,P Bankes
+206,Sheffield United,West Bromwich Albion,P Tierney
+207,Wolverhampton Wanderers,Arsenal,C Pawson
+208,Manchester United,Southampton,M Dean
+209,Newcastle United,Crystal Palace,D England
+210,Burnley,Manchester City,M Atkinson
+211,Fulham,Leicester City,R Jones
+212,Leeds United,Everton,M Oliver
+213,Aston Villa,West Ham United,A Madley
+214,Liverpool FC,Brighton,K Friend
+215,Tottenham Hotspur,Chelsea,A Marriner
+216,Aston Villa,Arsenal,C Kavanagh
+217,Burnley,Brighton,A Taylor
+218,Newcastle United,Southampton,C Pawson
+219,Fulham,West Ham United,M Dean
+220,Manchester United,Everton,J Moss
+221,Tottenham Hotspur,West Bromwich Albion,S Attwell
+222,Wolverhampton Wanderers,Leicester City,M Atkinson
+223,Liverpool FC,Manchester City,M Oliver
+224,Sheffield United,Chelsea,K Friend
+225,Leeds United,Crystal Palace,A Marriner
+226,Leicester City,Liverpool FC,A Taylor
+227,Crystal Palace,Burnley,M Oliver
+228,Manchester City,Tottenham Hotspur,P Tierney
+229,Brighton,Aston Villa,D England
+230,Southampton,Wolverhampton Wanderers,G Scott
+231,West Bromwich Albion,Manchester United,C Pawson
+232,Arsenal,Leeds United,S Attwell
+233,Everton,Fulham,A Madley
+234,West Ham United,Sheffield United,S Hooper
+235,Chelsea,Newcastle United,P Bankes
+236,Burnley,Fulham,J Moss
+237,Everton,Manchester City,A Marriner
+238,Wolverhampton Wanderers,Leeds United,D Coote
+239,Southampton,Chelsea,A Taylor
+240,Burnley,West Bromwich Albion,M Dean
+241,Liverpool FC,Everton,C Kavanagh
+242,Fulham,Sheffield United,M Atkinson
+243,West Ham United,Tottenham Hotspur,C Pawson
+244,Aston Villa,Leicester City,M Oliver
+245,Arsenal,Manchester City,J Moss
+246,Manchester United,Newcastle United,P Tierney
+247,Brighton,Crystal Palace,K Friend
+248,Leeds United,Southampton,A Marriner
+249,Manchester City,West Ham United,M Oliver
+250,West Bromwich Albion,Brighton,L Mason
+251,Leeds United,Aston Villa,P Bankes
+252,Newcastle United,Wolverhampton Wanderers,M Dean
+253,Crystal Palace,Fulham,A Taylor
+254,Leicester City,Arsenal,P Tierney
+255,Tottenham Hotspur,Burnley,K Friend
+256,Chelsea,Manchester United,S Attwell
+257,Sheffield United,Liverpool FC,J Moss
+258,Everton,Southampton,M Atkinson
+259,Manchester City,Wolverhampton Wanderers,C Kavanagh
+260,Burnley,Leicester City,A Madley
+261,Sheffield United,Aston Villa,R Jones
+262,Crystal Palace,Manchester United,A Marriner
+263,Fulham,Tottenham Hotspur,D Coote
+264,West Bromwich Albion,Everton,D England
+265,Liverpool FC,Chelsea,M Atkinson
+266,Burnley,Arsenal,A Marriner
+267,Sheffield United,Southampton,P Tierney
+268,Aston Villa,Wolverhampton Wanderers,A Madley
+269,Brighton,Leicester City,M Oliver
+270,West Bromwich Albion,Newcastle United,M Atkinson
+271,Liverpool FC,Fulham,K Friend
+272,Manchester City,Manchester United,A Taylor
+273,Tottenham Hotspur,Crystal Palace,S Attwell
+274,Chelsea,Everton,D Coote
+275,West Ham United,Leeds United,M Dean
+276,Manchester City,Southampton,J Moss
+277,Newcastle United,Aston Villa,P Tierney
+278,Leeds United,Chelsea,K Friend
+279,Crystal Palace,West Bromwich Albion,S Hooper
+280,Everton,Burnley,J Moss
+281,Fulham,Manchester City,A Marriner
+282,Southampton,Brighton,S Attwell
+283,Leicester City,Sheffield United,P Bankes
+284,Arsenal,Tottenham Hotspur,M Oliver
+285,Manchester United,West Ham United,M Atkinson
+286,Wolverhampton Wanderers,Liverpool FC,C Pawson
+287,Fulham,Leeds United,D Coote
+288,Brighton,Newcastle United,A Taylor
+289,West Ham United,Arsenal,J Moss
+290,Aston Villa,Tottenham Hotspur,M Dean
+291,Chelsea,West Bromwich Albion,D Coote
+292,Leeds United,Sheffield United,G Scott
+293,Leicester City,Manchester City,A Taylor
+294,Arsenal,Liverpool FC,S Attwell
+295,Southampton,Burnley,A Marriner
+296,Newcastle United,Tottenham Hotspur,C Pawson
+297,Aston Villa,Fulham,A Madley
+298,Manchester United,Brighton,M Dean
+299,Everton,Crystal Palace,K Friend
+300,Wolverhampton Wanderers,West Ham United,M Oliver
+301,Fulham,Wolverhampton Wanderers,J Moss
+302,Manchester City,Leeds United,A Marriner
+303,Liverpool FC,Aston Villa,P Tierney
+304,Crystal Palace,Chelsea,M Oliver
+305,Burnley,Newcastle United,A Taylor
+306,West Ham United,Leicester City,M Dean
+307,Tottenham Hotspur,Manchester United,C Kavanagh
+308,Sheffield United,Arsenal,P Bankes
+309,West Bromwich Albion,Southampton,S Hooper
+310,Brighton,Everton,D England
+311,Everton,Tottenham Hotspur,M Oliver
+312,Newcastle United,West Ham United,K Friend
+313,Wolverhampton Wanderers,Sheffield United,R Jones
+314,Arsenal,Fulham,C Pawson
+315,Manchester United,Burnley,J Moss
+316,Leeds United,Liverpool FC,A Taylor
+317,Chelsea,Brighton,S Attwell
+318,Tottenham Hotspur,Southampton,D Coote
+319,Aston Villa,Manchester City,P Bankes
+320,Leicester City,West Bromwich Albion,A Madley
+321,Arsenal,Everton,J Moss
+322,Liverpool FC,Newcastle United,A Marriner
+323,West Ham United,Chelsea,C Kavanagh
+324,Sheffield United,Brighton,K Friend
+325,Wolverhampton Wanderers,Burnley,D England
+326,Leeds United,Manchester United,C Pawson
+327,Aston Villa,West Bromwich Albion,S Attwell
+328,Leicester City,Crystal Palace,G Scott
+329,Southampton,Leicester City,R Jones
+330,Crystal Palace,Manchester City,D Coote
+331,Brighton,Leeds United,C Kavanagh
+332,Chelsea,Fulham,K Friend
+333,Everton,Aston Villa,S Hooper
+334,Newcastle United,Arsenal,M Dean
+335,Tottenham Hotspur,Sheffield United,A Marriner
+336,West Bromwich Albion,Wolverhampton Wanderers,P Tierney
+337,Burnley,West Ham United,A Taylor
+338,Leicester City,Newcastle United,D England
+339,Leeds United,Tottenham Hotspur,M Oliver
+340,Sheffield United,Crystal Palace,S Hooper
+341,Manchester City,Chelsea,A Taylor
+342,Liverpool FC,Southampton,K Friend
+343,Wolverhampton Wanderers,Brighton,J Moss
+344,Aston Villa,Manchester United,C Kavanagh
+345,West Ham United,Everton,S Attwell
+346,Arsenal,West Bromwich Albion,P Bankes
+347,Fulham,Burnley,D Coote
+348,Manchester United,Leicester City,C Pawson
+349,Southampton,Crystal Palace,A Madley
+350,Chelsea,Arsenal,A Marriner
+351,Aston Villa,Everton,M Atkinson
+352,Manchester United,Liverpool FC,A Taylor
+353,Newcastle United,Manchester City,K Friend
+354,Burnley,Leeds United,G Scott
+355,Southampton,Fulham,C Pawson
+356,Brighton,West Ham United,A Marriner
+357,Crystal Palace,Aston Villa,D Coote
+358,Tottenham Hotspur,Wolverhampton Wanderers,M Atkinson
+359,West Bromwich Albion,Liverpool FC,M Dean
+360,Everton,Sheffield United,A Moss
+361,Manchester United,Fulham,L Mason
+362,Southampton,Leeds United,P Bankes
+363,Brighton,Manchester City,S Attwell
+364,Chelsea,Leicester City,M Dean
+365,Everton,Wolverhampton Wanderers,A Madley
+366,Newcastle United,Sheffield United,R Jones
+367,Tottenham Hotspur,Aston Villa,C Pawson
+368,Crystal Palace,Arsenal,A Taylor
+369,Burnley,Liverpool FC,C Kavanagh
+370,West Bromwich Albion,West Ham United,M Oliver
+371,Arsenal,Brighton,J Moss
+372,Aston Villa,Chelsea,S Attwell
+373,Fulham,Newcastle United,C Kavanagh
+374,Leeds United,West Bromwich Albion,D Coote
+375,Leicester City,Tottenham Hotspur,A Taylor
+376,Liverpool FC,Crystal Palace,C Pawson
+377,Manchester City,Everton,M Oliver
+378,Sheffield United,Burnley,K Friend
+379,West Ham United,Southampton,M Atkinson
+380,Wolverhampton Wanderers,Manchester United,M Dean
